@@ -1,0 +1,11 @@
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.0\MySqlTest.deps.json
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.0\MySqlTest.runtimeconfig.json
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.0\MySqlTest.runtimeconfig.dev.json
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.0\MySqlTest.dll
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.0\MySqlTest.csprojResolveAssemblyReference.cache
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.0\MySqlTest.csproj.CoreCompileInputs.cache
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.0\MySqlTest.AssemblyInfoInputs.cache
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.0\MySqlTest.AssemblyInfo.cs
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\bin\Debug\netcoreapp2.0\MySqlTest.pdb
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.0\MySqlTest.dll
+c:\users\soporte_2\Source\Repos\MySqlTest\MySqlTest\obj\Debug\netcoreapp2.0\MySqlTest.pdb
